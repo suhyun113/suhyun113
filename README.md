@@ -12,6 +12,7 @@
 
 </div>
 
+<!--teck stacks-->
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?logo=Flutter">
   <img src="https://img.shields.io/badge/Dart-0175C2?logo=Dart">
@@ -25,5 +26,11 @@
   <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
 </p>
+
+<div align="center">
+  
+[![suhyun_'s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=suhyun113&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6FCBFF&height=150&section=footer" />
