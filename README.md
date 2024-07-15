@@ -18,8 +18,10 @@
   <img src="https://img.shields.io/badge/Dart-0175C2?logo=Dart">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=Javascript">
+  <img src="https://img.shields.io/badge/c-A8B9CC?logo=C">
 </p>
+
 
 <p align="center">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
