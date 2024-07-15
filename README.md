@@ -32,7 +32,7 @@
 <div align="center">
 
 <p align="center">
-<a href="[버튼을 눌렀을 때 이동할 링크](https://www.instagram.com/su._.yoru/)" target="_blank">
+<a href="https://www.instagram.com/su._.yoru/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=FFFFFF"/>
 </a>
 </p>
