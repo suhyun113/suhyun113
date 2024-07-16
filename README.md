@@ -27,6 +27,7 @@
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
 </p>
+  
 <br>
   
 <h3>🦦Studying🦦</h3>
@@ -35,22 +36,31 @@
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=FFFFFF">
 </p>
 
+<br>
+
   <h3>🦖Study🦖</h3>
 <p>
   알고리드미
 </p>
 
+<br>
+
 <h3>🐳Tool🐳</h3>
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=FFFFFF">
+  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=FFFFFF">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=FFFFFF">
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=FFFFFF">
+</p>
 <p align="center">
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
-  
 </p>
 </div>
 
-
+<br>
 
 <div align="center">
-
+<h3>👻Follow Me!👻</h3>
 <p align="center">
 <a href="https://www.instagram.com/su._.yoru/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=FFFFFF"/>
@@ -60,5 +70,6 @@
 [![suhyun_'s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=suhyun113&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 </div>
-
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6FCBFF&height=150&section=footer" />
+</div>
