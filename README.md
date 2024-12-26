@@ -53,7 +53,7 @@
 > **App ( Client ) - [🫁 HICURE - 맞춤형 헬스케어 진단 서비스](https://github.com/HICURE/HICURE)**<br>
 > 아두이노 기반 폐활량 데이터를 활용한 맞춤형 폐 건강 관리 앱 | 2024.07.01-2024.08.16
 
-> **Web Game ( Back-End ) - [ 🏝️독도의 기억 - 숨은 배신자를 찾아라](https://github.com/pknu-wap/Dokdo_Public)**<br>
+> **Web Game ( Back-End ) - [🏝️독도의 기억 - 숨은 배신자를 찾아라](https://github.com/pknu-wap/Dokdo_Public)**<br>
 > 역사 의식을 키우고 재미를 더하는 방탈출 웹 게임 | 2024.09.19-2024.11.29
 <br>
 
