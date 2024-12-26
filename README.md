@@ -16,7 +16,7 @@
 - Penguin🐧
 - Kiwi🥝
 - Ramen🍜
-- Animation&Webtoom📺
+- Animation&Webtoon📺
 - Sleeping🛌
 <br>
 
